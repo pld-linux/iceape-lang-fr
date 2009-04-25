@@ -4,12 +4,12 @@
 Summary:	French resources for Iceape
 Summary(pl.UTF-8):	Francuskie pliki językowe dla Iceape
 Name:		iceape-lang-%{_lang}
-Version:	1.1.15
+Version:	1.1.16
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
-# Source0-md5:	847585aa200ab2b1cd55c6ae497357b6
+# Source0-md5:	f3ffe74e82f744e498f1e4dbc5235850
 Source1:	http://www.mozilla-enigmail.org/download/release/0.95/enigmail-%{_lare}-0.95.xpi
 # Source1-md5:	8f4c3c346cdaa6b8f9a698625bd598c6
 Source2:	gen-installed-chrome.sh
